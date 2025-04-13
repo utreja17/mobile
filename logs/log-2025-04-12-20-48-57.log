@@ -1,0 +1,48 @@
+2025-04-12 20:48:58.070 [main] DEBUG tests.BaseTest - Test execution platform: android
+2025-04-12 20:49:15.387 [main] DEBUG tests.BaseTest - Test execution started on: android
+2025-04-12 20:49:18.727 [main] INFO  org.trustcreatewallet.utils.CommonActions - launchPage_verification is visible
+2025-04-12 20:49:21.804 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Create Wallet Button
+2025-04-12 20:49:31.507 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element: Cross Icon on Market Overlay
+2025-04-12 20:49:31.635 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Entering secret phrase
+2025-04-12 20:49:31.635 [main] INFO  org.trustcreatewallet.utils.CommonActions - WalletName is visible
+2025-04-12 20:49:33.659 [main] INFO  org.trustcreatewallet.utils.CommonActions - Main Wallet 1GET Text of this element
+2025-04-12 20:49:33.840 [main] INFO  org.trustcreatewallet.utils.CommonActions - Main Wallet 1GET Text of this element
+2025-04-12 20:49:33.998 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:WalletName
+2025-04-12 20:49:34.817 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:WalletName
+2025-04-12 20:49:37.173 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:WalletName
+2025-04-12 20:49:37.284 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Entering secret phrase
+2025-04-12 20:49:37.284 [main] INFO  org.trustcreatewallet.utils.CommonActions - WalletName is visible
+2025-04-12 20:49:52.668 [main] INFO  org.trustcreatewallet.utils.CommonActions - Main Wallet 2GET Text of this element
+2025-04-12 20:49:52.914 [main] INFO  org.trustcreatewallet.utils.CommonActions - Main Wallet 2GET Text of this element
+2025-04-12 20:49:55.060 [main] DEBUG tests.BaseTest - Test execution stopped on: android
+2025-04-12 20:50:10.154 [main] DEBUG tests.BaseTest - Test execution started on: android
+2025-04-12 20:50:13.164 [main] INFO  org.trustcreatewallet.utils.CommonActions - launchPage_verification is visible
+2025-04-12 20:50:15.964 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Create Wallet Button
+2025-04-12 20:50:15.965 [main] INFO  org.trustcreatewallet.utils.CommonActions - passcodeText is visible
+2025-04-12 20:50:18.536 [main] DEBUG tests.BaseTest - Test execution stopped on: android
+2025-04-12 20:50:31.045 [main] DEBUG tests.BaseTest - Test execution started on: android
+2025-04-12 20:50:34.053 [main] INFO  org.trustcreatewallet.utils.CommonActions - launchPage_verification is visible
+2025-04-12 20:50:35.753 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Create Wallet Button
+2025-04-12 20:50:38.352 [main] DEBUG tests.BaseTest - Test execution stopped on: android
+2025-04-12 20:51:35.315 [main] DEBUG tests.BaseTest - Test execution started on: android
+2025-04-12 20:51:38.327 [main] INFO  org.trustcreatewallet.utils.CommonActions - launchPage_verification is visible
+2025-04-12 20:51:54.526 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Create Wallet Button
+2025-04-12 20:51:54.527 [main] INFO  org.trustcreatewallet.utils.CommonActions - passcodeText is visible
+2025-04-12 20:52:17.296 [main] INFO  org.trustcreatewallet.utils.CommonActions - reenter_PasscodeText is visible
+2025-04-12 20:52:37.864 [main] INFO  org.trustcreatewallet.utils.CommonActions - reenter_PasscodeText is visible
+2025-04-12 20:52:47.718 [main] DEBUG tests.BaseTest - Test execution stopped on: android
+2025-04-12 20:53:56.881 [main] DEBUG tests.BaseTest - Test execution started on: android
+2025-04-12 20:53:59.890 [main] INFO  org.trustcreatewallet.utils.CommonActions - launchPage_verification is visible
+2025-04-12 20:54:13.995 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Create Wallet Button
+2025-04-12 20:54:13.996 [main] INFO  org.trustcreatewallet.utils.CommonActions - passcodeText is visible
+2025-04-12 20:54:44.100 [main] INFO  org.trustcreatewallet.utils.CommonActions - reenter_PasscodeText is visible
+2025-04-12 20:54:52.561 [main] DEBUG tests.BaseTest - Test execution stopped on: android
+2025-04-12 20:55:52.256 [main] DEBUG tests.BaseTest - Test execution started on: android
+2025-04-12 20:55:54.265 [main] INFO  org.trustcreatewallet.utils.CommonActions - launchPage_verification is visible
+2025-04-12 20:56:13.227 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Create Wallet Button
+2025-04-12 20:56:59.389 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element: Cross Icon on Market Overlay
+2025-04-12 20:57:00.157 [main] INFO  org.trustcreatewallet.utils.CommonActions - Clicked on element:Entering secret phrase
+2025-04-12 20:57:00.157 [main] INFO  org.trustcreatewallet.utils.CommonActions - WalletName is visible
+2025-04-12 20:57:17.365 [main] INFO  org.trustcreatewallet.utils.CommonActions - Main Wallet 1GET Text of this element
+2025-04-12 20:57:18.270 [main] INFO  org.trustcreatewallet.utils.CommonActions - Main Wallet 1GET Text of this element
+2025-04-12 20:57:26.404 [main] DEBUG tests.BaseTest - Test execution stopped on: android

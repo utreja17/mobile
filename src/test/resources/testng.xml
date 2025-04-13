@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Create Wallet Automation - Test Suite">
+    <test name="Smoke Test">
+        <classes>
+            <class name="tests.createWalletTest">
+
+            </class>
+        </classes>
+    </test>
+</suite>
