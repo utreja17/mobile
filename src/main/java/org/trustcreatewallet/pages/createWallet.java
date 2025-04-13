@@ -14,7 +14,7 @@ public class createWallet extends CommonActions {
     private WebElement create_WalletButtonxpath;
     @AndroidFindBy(xpath = "//android.widget.TextView[@text=\"Enter your passcode. Be sure to remember it so you can unlock your wallet.\"]\n")
     private WebElement passcodeText;
-    @AndroidFindBy(xpath = "//android.widget.TextView[@text=\"Enter your passcode. Be sure to remember it so you can unlock your wallet.\"]\n")
+    @AndroidFindBy(xpath = "//android.widget.TextView[@text=\"Re-enter your passcode. Be sure to remember it so you can unlock your wallet.\"]\n")
     private WebElement reenter_PasscodeText;
     @AndroidFindBy(xpath = "//android.view.ViewGroup/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]/android.view.View/android.widget.Button\n")
     private WebElement market_DialogBox;
