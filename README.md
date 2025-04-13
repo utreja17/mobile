@@ -1,14 +1,14 @@
-# Counter App Automation Using Appium and Java
+# Trust Application Create wallet functionality App Automation Using Appium and Java
 
 ## Overview
 
-This project automates the testing of a Counter App using Appium and Java. The automation suite verifies various
+This project automates the testing of a Trust Application Create wallet functionality App using Appium and Java. The automation suite verifies various
 functionalities, including button clicks, value increments/decrements, and UI element validation.
 
 ## Features
 
-1. Automated UI testing of the Counter App.
-2. Validation of UI elements (labels, buttons, counters, etc.).
+1. Automated UI testing of the Trust Application Create wallet functionality App.
+2. Validation of UI elements (labels, buttons, Trust Application Create wallet functionalitys, etc.).
 3. Handling invalid actions (e.g., tapping buttons when the app is busy).
 4. Logging framework integration for test reporting.
 
@@ -33,7 +33,7 @@ functionalities, including button clicks, value increments/decrements, and UI el
 ## Project Setup
 
 1. Clone the repository:
-   `git clone https://github.com/yadsandy/mobile-app-automation.git`
+   `git clone https://github.com/utreja17/mobile.git`
 2. cd mobile-app-automation
 3. Install dependencies using Maven:
    `mvn clean install`
@@ -42,15 +42,4 @@ functionalities, including button clicks, value increments/decrements, and UI el
 5. Update the device name in [config.properties](src/test/resources/config.properties)
 6. Run the test suite using
    `mvn clean test`
-
-## Execution Result :
-
-Console Output -
-![Screenshot 2025-01-30 233856.png](src/test/resources/images/Screenshot%202025-01-30%20233856.png)
-Logs -
-![Screenshot 2025-01-30 233914.png](src/test/resources/images/Screenshot%202025-01-30%20233914.png)
-Extent Report -
-![Screenshot 2025-01-30 233935ds.png](src/test/resources/images/Screenshot%202025-01-30%20233935ds.png)
-CI-CD Screenshot:
-![Screenshot 2025-01-31 174935.png](src/test/resources/images/Screenshot%202025-01-31%20174935.png)
 
